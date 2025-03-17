@@ -77,7 +77,8 @@ ___________________________________________________________
   
 
 #### Error in prediction
-![Error](Task2/images/Error_metrics.png)  
+<img src="Task2/images/Loss.png" alt="Loss Curve" width="600"/>
+
 
 ---
 
