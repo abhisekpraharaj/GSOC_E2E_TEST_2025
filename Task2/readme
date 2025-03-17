@@ -1,1 +1,9 @@
+** Dataset Description **
 
+Data Structure
+
+The dataset is stored in Parquet format and is located in the data folder.
+
+It consists of six separate datasets, each containing approximately 150,000 rows.
+
+Each dataset has five columns:
