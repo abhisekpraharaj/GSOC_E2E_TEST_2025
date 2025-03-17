@@ -60,32 +60,33 @@ ___________________________________________________________
 ## Results  
 
 ### 1. Chunked Data from Multiple Datasets with Custom CNN Regression  
-#### Loss Curve  
-![Loss Curve](Task2/images/Loss.png)  
+#### Loss Curve 
+![Loss](https://github.com/user-attachments/assets/7080a22b-bfd9-4355-b66d-a7eb54879837)
 
 #### Actual vs Predicted  
-![Actual Vs Predicted](Task2/images/actual_vs_prediction.png)  
+![actual_vs_prediction](https://github.com/user-attachments/assets/54354fb5-ce01-4108-9831-6f002599d5c5)
+
 
 #### Error  
-![Error](Task2/images/error_metrics.png)  
+ ![error_metrics](https://github.com/user-attachments/assets/12f74fcd-fd0e-4d48-bd59-ae48b32f7218)
+
 
 ---
 
 ### 2. Full Data from One Dataset with Custom CNN (3 Channels)  
-#### Loss Curve  
-![Loss Curve](Task2/images/Loss.png)
- 
-  
+#### Loss Curve   
+![Loss_CNN](https://github.com/user-attachments/assets/39c2b4ae-9858-4767-b7b6-3bbdf64c3f83)
+
 
 #### Error in prediction
-<img src="Task2/images/Loss.png" alt="Loss Curve" width="600"/>
-
+![Error_metrics](https://github.com/user-attachments/assets/82b7a6f7-9bd3-412e-b053-2ec163eabbc9)
 
 ---
 
 ### 3. Full Data from One Dataset with VGG16 (3 Channels)  
 #### Loss Curve  
-  
+
+![vgg16_loss](https://github.com/user-attachments/assets/f98cc8e5-03d6-4fd0-8559-915538fadab9)
 
 #### Error in Prediction  
 
