@@ -51,11 +51,13 @@ ___________________________________________________________
 
 ## Model Comparison Table
 
-| Method                                    | Inputs                      | Epochs | MAE  |
-|-------------------------------------------|-----------------------------|--------|------|
-| Chunked Data from Multiple Datasets with Custom CNN Regression | **X_jet (2 selected channels), pt** |    |   |
-| Full Data from One Dataset with Custom CNN (3 Channels) | **X_jet (3 selected channels)** |     |   |
-| Full Data from One Dataset with VGG16 (3 Channels) | **X_jet (3 selected channels)** |     |   |
+| Method                                    | Inputs                      | Epochs | MAE (Prediction) | Training Time |
+|-------------------------------------------|-----------------------------|--------|------------------|---------------|
+| Chunked Data from Multiple Datasets with Custom CNN Regression | **X_jet (2 selected channels), pt** | 40   | 92 (unscaled_predictions) | 32 mins |
+| Full Data from One Dataset with Custom CNN (3 Channels) | **X_jet (3 selected channels)** | 5 | 0.6647 (scaled_predictions) | 11.24 hrs |
+| Full Data from One Dataset with VGG16 (3 Channels) | **X_jet (3 selected channels)** | 5 | 0.5914 (scaled_predictions) | 11.22 hrs |
+
+
 
 
 
