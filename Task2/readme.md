@@ -15,3 +15,9 @@ Each row in the dataset corresponds to a single jet event, where:
 ### . `X_jet` represents a **multi-channel image-like** structure.
 ### . `mass`, `pt`, `ieta`, and `iphi` provide **additional scalar attributes** related to the jet event.
 
+### Training Methods
+
+   ### 1.Chunked Data from Multiple Datasets with Custom CNN Regression
+      ### This method loads data in chunks from four different datasets.
+      ### The Custom CNN regression model is used.
+      ### The model takes X_jet (all 8 channels) and pt as inputs for training.
