@@ -47,4 +47,15 @@ Each row in the dataset corresponds to a single jet event, where:
 ### Process:
 1. Load the full dataset from one file.
 2. Train the VGG16 model using the 3 selected channels.
+___________________________________________________________
+
+## Model Comparison Table
+
+| Method                                    | Inputs                      | Epochs | MAE  |
+|-------------------------------------------|-----------------------------|--------|------|
+| Chunked Data from Multiple Datasets with Custom CNN Regression | **X_jet (2 selected channels), pt** |    |   |
+| Full Data from One Dataset with Custom CNN (3 Channels) | **X_jet (3 selected channels)** |     |   |
+| Full Data from One Dataset with VGG16 (3 Channels) | **X_jet (3 selected channels)** |     |   |
+
+
 
