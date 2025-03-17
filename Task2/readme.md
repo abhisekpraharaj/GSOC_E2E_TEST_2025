@@ -73,7 +73,8 @@ ___________________________________________________________
 
 ### 2. Full Data from One Dataset with Custom CNN (3 Channels)  
 #### Loss Curve  
-![Loss Curve](Task2/images/Loss_CNN.png)  
+![Loss Curve](Task2/images/Loss.png)
+ 
   
 
 #### Error in prediction
@@ -84,10 +85,11 @@ ___________________________________________________________
 
 ### 3. Full Data from One Dataset with VGG16 (3 Channels)  
 #### Loss Curve  
-![Loss Curve](Task2/images/vgg16_loss)  
+  
 
 #### Error in Prediction  
-![Error in Prediction](Task2/images/vgg16_error.png)  
+
+![vgg16_error](https://github.com/user-attachments/assets/cf160f0f-9d44-4451-a393-fbcd1fd48dbe)
 
 
 
