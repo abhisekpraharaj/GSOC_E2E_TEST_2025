@@ -94,6 +94,17 @@ ___________________________________________________________
 
 
 
+## Suggestions and Future Improvements  
+
+### 1. Efficient Data Loading for GPU Utilization  
+I need assistance in implementing a **robust data reading and loading mechanism** to efficiently utilize GPU resources. Faster and optimized data loading will significantly reduce training time while allowing the model to train on the **entire dataset**, leading to better accuracy.  
+
+From the current results, we observe that training on a **single dataset** achieves a **low MAE** and **minimal prediction errors**. Thus, if we can efficiently feed data from **all datasets** into the model, it will improve regression accuracy further.  
+
+### 2. Physics-Informed Neural Networks (PINNs) with **pt** as a Feature  
+Incorporating **pt** as a feature presents an opportunity to leverage **Physics-Informed Neural Networks (PINNs)**. If we can derive a function representing the physical relationship involving **pt**, we could integrate it into the model's training process as a **physics-based loss function**.  
+
+This physics-informed loss could significantly enhance the model’s learning and predictive capabilities. While I haven't fully explored this approach yet, with proper guidance, I aim to **extend the project** in this direction to improve performance and interpretability.  
 
 
 
