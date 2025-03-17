@@ -57,6 +57,9 @@ ___________________________________________________________
 | Full Data from One Dataset with Custom CNN (3 Channels) | **X_jet (3 selected channels)** | 5 | 0.6647 (scaled_predictions) | 11.24 hrs |
 | Full Data from One Dataset with VGG16 (3 Channels) | **X_jet (3 selected channels)** | 5 | 0.5914 (scaled_predictions) | 11.22 hrs |
 
+## Results
+
+
 
 
 
