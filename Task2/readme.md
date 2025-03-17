@@ -20,7 +20,7 @@ Each row in the dataset corresponds to a single jet event, where:
 ## 1. Chunked Data from Multiple Datasets with Custom CNN Regression
 - This method loads data in chunks from four different datasets.
 - A Custom CNN regression model is used.
-- The model takes **X_jet** (all 8 channels) and **pt** as inputs for training.
+- The model takes **X_jet** (2 channels) and **pt** as inputs for training.
 
 ### Process:
 1. Load chunks from 4 different datasets.
