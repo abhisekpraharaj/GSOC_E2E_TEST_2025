@@ -57,7 +57,36 @@ ___________________________________________________________
 | Full Data from One Dataset with Custom CNN (3 Channels) | **X_jet (3 selected channels)** | 5 | 0.6647 (scaled_predictions) | 11.24 hrs |
 | Full Data from One Dataset with VGG16 (3 Channels) | **X_jet (3 selected channels)** | 5 | 0.5914 (scaled_predictions) | 11.22 hrs |
 
-## Results
+## Results  
+
+### 1. Chunked Data from Multiple Datasets with Custom CNN Regression  
+#### Loss Curve  
+![Loss Curve](Task2/images/Loss.png)  
+
+#### Actual vs Predicted  
+![Actual Vs Predicted](Task2/images/actual_vs_prediction.png)  
+
+#### Error  
+![Error](Task2/images/error_metrics.png)  
+
+---
+
+### 2. Full Data from One Dataset with Custom CNN (3 Channels)  
+#### Loss Curve  
+![Loss Curve](Task2/images/Loss_CNN.png)  
+  
+
+#### Error in prediction
+![Error](Task2/images/Error_metrics.png)  
+
+---
+
+### 3. Full Data from One Dataset with VGG16 (3 Channels)  
+#### Loss Curve  
+![Loss Curve](Task2/images/vgg16_loss)  
+
+#### Error in Prediction  
+![Error in Prediction](Task2/images/vgg16_error.png)  
 
 
 
