@@ -6,7 +6,13 @@
   - Model1(Custom RESNET)
   - Model2(Pretrained RESNET)
 
-# Result
-### Custom Resnet
+# Results
+
+## Model 1
+This is the custom ResNet model which we trained over the electron and photon dataset, and we achieved an AUC of around **0.79**.
+
+## Model 2
+This is the pre-trained ResNet model which we have fine-tuned on the electron-photon dataset for classification, and we achieved an AUC of around **0.78**.
+
 
 
