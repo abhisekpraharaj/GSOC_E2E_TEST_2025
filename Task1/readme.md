@@ -10,6 +10,9 @@
 
 ## Model 1
 This is the custom ResNet model which we trained over the electron and photon dataset, and we achieved an AUC of around **0.79**.
+![loss acc_cresnet](https://github.com/user-attachments/assets/dda0293d-5601-4a79-aebf-fc50130e2764)
+
+![ROC_AUC_CRESNET](https://github.com/user-attachments/assets/da4a3167-ac00-481d-9381-f0a0596d3046)
 
 
 ## Model 2
