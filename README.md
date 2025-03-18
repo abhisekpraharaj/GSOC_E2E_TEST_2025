@@ -10,3 +10,10 @@ This repository contains the task results of the following tasks:
 - **Model Used:** Deep Learning Models
 - **Objective:** To perform regression analysis using jet image data set.
 
+
+## Sample Images
+## Photon:
+  -![electron](https://github.com/user-attachments/assets/9d4d0d5e-4344-468b-8ebc-6d858b3558b5)
+## Electron:
+  -![electron real](https://github.com/user-attachments/assets/2d6c4a9f-5103-4519-8f37-f3fcd00b1d88)
+
